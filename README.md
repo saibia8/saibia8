@@ -2,8 +2,23 @@
 <a name="readme-top"></a>
 # ![saibia8 header](https://user-images.githubusercontent.com/104776669/223502223-c8e8fac7-803b-4dba-8d39-c3f5b5ee30a8.jpg)
 
-<h1 align="center"><img src="<div class="tenor-gif-embed" data-postid="10038123884366051662" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/greet-hand-waves-hey-hand-wave-say-hi-gif-10038123884366051662">Greet Hand Waves Sticker</a>from <a href="https://tenor.com/search/greet-stickers">Greet Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="30px"> Oh, hi there!</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/104776669/223514767-a082ab16-c896-4bfc-b16c-044e7b9b801f.gif">
+Oh, hi there!</h1>
 <p>My name is Sabina Kutniauske and I’m frontend student at Noroff. I’m from Lithuania, but currently living in Norway.</p>
+
+
+```dart
+// tools_I_use organized
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Javascript" },
+    "OtherLanguages" : { "HTML", "CSS", "Json" },
+    "Editors" : { "Vscode" },
+    "Platforms" : { "Windows" },
+    "OtherTools" : { "Figma", "Adobe xD", "Photoshop", "Illustrator", "Lightroom" }
+  };
+}
+```
 
 
 - 🔭 I’m currently working on **personal portfolio website**
