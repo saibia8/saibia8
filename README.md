@@ -23,7 +23,7 @@ Oh, hi there!</h1>
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify"></a>
 
 
-### **Psst, don't tell anyone that I told you 😃**
+### **Psst, don't tell anyone 😃**
 - 🔭 I’m currently working on **personal portfolio website**
 - 🌱 I’m currently learning **Javascript**
 - 🐶 Animal **dog**
