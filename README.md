@@ -3,7 +3,7 @@
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/104776669/223514767-a082ab16-c896-4bfc-b16c-044e7b9b801f.gif" width="50" alt="a squirrel waves its hand">
 Oh, hi there!</h1>
-<h2>My name is Sabina and I’m first year frontend student at Noroff. I’m living in Norway.</h2>
+<h2>My name is Sabina and I’m soon starting my second year as a frontend student at Noroff. I’m living in Norway.</h2>
 
 ### **Having fun with these 👩‍💻**
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></a>
