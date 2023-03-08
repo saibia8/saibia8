@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 # ![saibia8 header](https://user-images.githubusercontent.com/104776669/223502223-c8e8fac7-803b-4dba-8d39-c3f5b5ee30a8.jpg)
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/104776669/223514767-a082ab16-c896-4bfc-b16c-044e7b9b801f.gif" width="50" alt="a squirrel waves its hand">$Oh,\ hi\ there$</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/104776669/223514767-a082ab16-c896-4bfc-b16c-044e7b9b801f.gif" width="50" alt="a squirrel waves its hand">Oh, hi there</h1>
 <h2>My name is Sabina and I’m starting my second year as a frontend student at Noroff.</h2>
 
 <h3>Having fun with these 👩‍💻</h3>
