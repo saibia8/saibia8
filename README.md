@@ -30,7 +30,7 @@ Oh, hi there!</h1>
 - ⚡ Fun fact **I never lie (except this time) 😁**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 👻</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/sabina-kutniauske-46a486238" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/sabina-kutniauske-46a486238"/></a>
 </p>
