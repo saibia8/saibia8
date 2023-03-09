@@ -20,7 +20,7 @@
 <a href="https://www.hotjar.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white" alt="hotjar"></a>
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify"></a>
 
-### **Psst, don't tell anyone 😃**
+### **Psst, don't tell anyone 🤫**
 * 🔭 I’m currently working on: *personal portfolio website*
 * 🌱 I’m currently learning: *Javascript*
 * 🐶 Animal: *dog*
@@ -30,17 +30,13 @@
 <a href="www.linkedin.com/in/sabina-kutniauske-46a486238" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin link"/></a>
 <a href="mailto:sabina.kutniauske@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail link"/></a>
 
-
 <h3>My Github statistics 🤓</h3>
- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=saibia8" alt="saibia8 Github stats"/>
- <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibia8" alt="saibia8 Github stats"/>
-  
- <br />
- <br />
- <br />
-<p align="center">
- <img alt="See you next time" width="700" src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=900&size=30&pause=1000&duration=4000&color=D6FF41&width=435&lines=See+you+next+time!"/>
+<img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=saibia8" alt="saibia8 Github statistics"/>
+<img align="left" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibia8" alt="saibia8 Github statistics"/>
+ 
+ 
+<br><br><br><br><br><br><br><br><br><br><br><br><br> 
+<p align="center"><a href="#readme-top">back to top</a>
 </p>
 
- 
-<p align="center">(<a href="#readme-top">back to top</a>)</p>
+![](https://komarev.com/ghpvc/?username=saibia8&color=brightgreen&style=flat-square)
