@@ -27,15 +27,17 @@
 * ⚡ Fun fact: *I never lie (except this time)* 😁
 
 <h3 align="left">Connect with me 👻</h3>
-<a href="https://linkedin.com/in/www.linkedin.com/in/sabina-kutniauske-46a486238" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/sabina-kutniauske-46a486238"/></a>
-<a href="https://accounts.google.com/v3/signin/identifier?dsh=S520816246%3A1678296204631110&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHfWLxGCHy19uLB_sAdxqb4mLaE-72GCA6GFRYynwv9Y7eh_mB44hJjow5xYk1zLMz15fUFHxw" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="www.linkedin.com/in/sabina-kutniauske-46a486238" (mailto:sabina.kutniauske@gmail.com)/></a>
+<a href="www.linkedin.com/in/sabina-kutniauske-46a486238" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin link"/></a>
+<a href="mailto:sabina.kutniauske@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail link"/></a>
 
 
 <h3>My Github statistics 🤓</h3>
  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=saibia8" alt="saibia8 Github stats"/>
  <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibia8" alt="saibia8 Github stats"/>
   
-  
+ <br />
+ <br />
+ <br />
 <p align="center">
  <img alt="See you next time" width="700" src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=900&size=30&pause=1000&duration=4000&color=D6FF41&width=435&lines=See+you+next+time!"/>
 </p>
